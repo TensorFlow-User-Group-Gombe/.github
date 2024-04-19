@@ -1,5 +1,7 @@
 **Welcome to TensorFlow-User-Group-Gombe!**
 
+![](../tensor.png)
+
 Our group is a community of **technologists, data scientists, engineers,** and **machine learning practitioners** who share a common interest in advancing our knowledge of TensorFlow and related technologies. 
 
 As a collective, we strive to:
